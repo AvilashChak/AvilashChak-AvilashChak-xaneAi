@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Add github URL here](https://github.com/AvilashChak/xaneAi.git)
-- Live Site URL: [Add live site URL here](https://avilash-portfolio-website.netlify.app/)
+- Github URL: [Add github URL here](https://github.com/AvilashChak/AvilashChak-xaneAi.git)
+- Live Site URL: [Add live site URL here](https://time-tracking-dashboard-avilash.netlify.app/)
 
 ### Built with
 
@@ -26,6 +26,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Avilash Chakraborty](avilash-portfolio-website.netlify.app/)
+- Website - [Avilash Chakraborty](https://avilash-portfolio-website.netlify.app/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
